@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @K10hrn
-- 👀 I’m interested in learning to use git, to develop my skills as a software tester. 
+Hi, I'm Kelly 👋
 
-# k10hrn
-My first GitHub repo!
-Hello Odin
+Test Engineer & Accessibility Specialist at Genio, working on WCAG 2.2 compliance, 
+test automation (Cypress/Playwright, TypeScript), and AI-assisted testing tooling.
+
+🔍 Currently: contributing to a Cypress → Playwright migration
+♿ Focus: accessibility testing and conformance
+🤖 Building Claude-based tools for testers
+
+CV: [TBC] · LinkedIn: linkedin.com/in/kellykenyon14
