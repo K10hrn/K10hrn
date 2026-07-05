@@ -37,4 +37,41 @@ At Genio, I focus on ensuring the delivery of high-quality, accessible, and reli
 * **Mentored Apprentices:** Guided apprentices through their industry training, acting as a dedicated coach to support their technical and professional development.
 * **Delivered Workshops:** Led training and workshops with a focus on software development lifecycles and testing best practices.
 * **Portfolio Assessment:** Provided constructive feedback on assignments and portfolios, helping juniors refine their quality and problem-solving skills.
-* **Community Contribution:** Played a key role
+* **Community Contribution:** Played a key role in supporting the success of the next generation of tech talent.
+
+#### Smoothwall (Leeds) | Junior Test Engineer
+*August 2021 – August 2022*
+
+* **Test Execution:** Executed end-to-end, regression, and feature testing across flagship products (Record Manager, Monitor, and Filter), including post-live smoke testing.
+* **Tooling Usage:** Utilised appropriate tooling, including Postman, DevOps, and Chrome developer tools, for test execution, analysis, and defect reporting.
+* **Agile Integration:** Contributed to agile processes by actively participating in retrospectives and refinement sessions to drive product quality and ensure timely delivery within committed timescales.
+* **Release Support:** Supported release management by assisting with the creation of release notes and adding test results.
+
+#### NHS Professionals (Wakefield) | Agency Support Consultant
+*November 2018 – August 2021*
+
+* **System Administration & SME:** Acted as a Subject Matter Expert (SME) and technical advisor for NHSP operational and financial systems (e.g., NHSP: Online, Connect, Clarity), supporting internal colleagues and external agencies/clients.
+* **Access Management:** Managed system administration tasks, including user account setup, access level maintenance, and management of core agency/trust standing data.
+* **Client Support:** Provided direct support to agencies, advising on booking system processes, managing queries (invoicing, timesheets, cancellations), and delivering system training.
+* **Team Development:** Responsible for training new team members and creating comprehensive documentation, including system user guides and team handbooks.
+
+---
+
+### Additional Experience
+
+* **Recruitment Officer** | NHS Professionals, Wakefield | *January 2018 – November 2018*
+* **Senior Case Handler** | Capita Remediation Services, Leeds | *September 2013 – January 2018*
+
+---
+
+### Certifications
+
+* ISTQB® Certified Tester, Foundation Level
+
+---
+
+### Education
+
+* **Software Testing Bootcamp (12 Weeks)** | The Coders Guild, Remote | *March 2021 – June 2021*
+* **PGCE in Secondary Education and Music** | The University of Huddersfield | *September 2008 – July 2009*
+* **Bachelor of Music (Hons)** | The University of Huddersfield | *September 2005 – July 2008*
