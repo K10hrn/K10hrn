@@ -1,5 +1,7 @@
 # Hi there, I'm Kelly! 👋
 
+📄 [View My Full CV](https://github.com/K10hrn/K10hrn/blob/main/CV.md)
+
 I am a Test Engineer and Accessibility Specialist who focuses on building quality and inclusivity into products from the inside out. I specialize in digital accessibility compliance, modern test automation frameworks, and leveraging generative AI to optimize QA workflows.
 
 ## ♿ What I Do
