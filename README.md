@@ -2,13 +2,13 @@
 
 📄 [View My Full CV](https://github.com/K10hrn/K10hrn/blob/main/CV.md)
 
-I am a Test Engineer and Accessibility Specialist who focuses on building quality and inclusivity into products from the inside out. I specialize in digital accessibility compliance, modern test automation frameworks, and leveraging generative AI to optimize QA workflows.
+I am a Test Engineer and Accessibility Specialist who focuses on building quality and inclusivity into products from the inside out. I specialize in digital accessibility compliance and leveraging generative AI to optimize QA workflows, and I'm building hands-on automation skills alongside our engineering team.
 
 ## ♿ What I Do
 * **Accessibility Leadership:** Spearheaded end to end WCAG 2.2 compliance initiatives across multiple flagship software products to achieve company-first conformance certifications.
 * **Community & Culture:** Co-founded Team ACE, a cross-functional accessibility guild dedicated to establishing permanent infrastructure for digital inclusion.
 * **AI Tooling:** Design and build custom GenAI testing utilities, including specialized Claude-based skills to accelerate test-case generation and code change analysis.
-* **Test Automation:** Hands-on automation development utilizing TypeScript alongside Cypress and Playwright.
+* **Test Automation:** Contributing to our Cypress-to-Playwright (TypeScript) migration, working alongside developers and using AI assistance to build automation capability from the ground up.
 
 ## 🛠️ Tech Stack & Tools
 * **Testing & Auditing:** WCAG 2.1/2.2, ACR/Conformance Auditing, API Testing, Regression Testing, Exploratory Testing
